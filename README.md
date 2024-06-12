@@ -3,9 +3,9 @@
 👋 Hello! I'm Shreya Sunil, a Third year B.Tech student at Rajagiri School of Engineering and Technology with a love for coding and problem-solving.
 
 ## 🌟 Skills Snapshot:
-- **Coding**: Proficient in <i class="fab fa-python"></i> *Python*, <i class="fab fa-cuttlefish"></i> *C*, <i class="fab fa-html5"></i> *HTML*, <i class="fab fa-css3-alt"></i> *CSS*, and <i class="fab fa-js"></i> *JavaScript*.
-- **Web Development**: Experience with <i class="fab fa-python"></i> *Flask* for backend development and <i class="fab fa-database"></i> *MySQL*, <i class="fab fa-fire"></i> *Firebase* for database management.
-- **Tools**: Comfortable using <i class="fab fa-code"></i> *VSCode* for coding and project management.
+- **Coding**: Proficient in ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg), ![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png), ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg), ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg), and ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg).
+- **Web Development**: Experience with ![Flask](https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg) for backend development and ![MySQL](https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png), ![Firebase](https://upload.wikimedia.org/wikipedia/commons/9/93/Google_Firebase_Logo_2017.png) for database management.
+- **Tools**: Comfortable using ![VSCode](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg) for coding and project management.
 
 ## 🌱 Learning:
 - React
