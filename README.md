@@ -3,9 +3,9 @@
 👋 Hello! I'm Shreya Sunil, a Third year B.Tech student at Rajagiri School of Engineering and Technology with a love for coding and problem-solving.
 
 ## 🌟 Skills Snapshot:
-- **Coding**: Proficient in _Python_, _C_, _HTML_, _CSS_, and _JavaScript_.
-- **Web Development**: Experience with _Flask_ for backend development and _MySQL_, _Firebase_ for database management.
-- **Tools**: Comfortable using _VSCode_ for coding and project management.
+- **Coding**: Proficient in _*Python*_, _*C*_, _*HTML*_, _*CSS*_, and _*JavaScript*_.
+- **Web Development**: Experience with _*Flask*_ for backend development and _*MySQL*_, _*Firebase*_ for database management.
+- **Tools**: Comfortable using _*VSCode*_ for coding and project management.
 
 ## 🌱 Learning:
 - React
