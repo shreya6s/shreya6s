@@ -1,5 +1,31 @@
 ## Hi there 👋
 
+👋 Hello! I'm Shreya Sunil, a Third year B.Tech student at Rajagiri School of Engineering and Technology with a love for coding and problem-solving.
+
+## 📚 I'm proficient in:
+- **Languages**: Python, C, HTML, CSS, JavaScript, Flask, MySQL
+- **Tools**: VSCode
+
+## 🌱 Learning:
+- React and enhancing my skills.
+
+## 📫 Feel free to reach out to me on:
+- [LinkedIn](https://www.linkedin.com/in/shreya6s)
+
+## 🚀 One of my Projects:
+### [VoiceVIVA - Automated Oral Assessment Platform](https://github.com/shreya6s/VoiceVIVA)
+- Developed a web platform using HTML, CSS, JavaScript, Python, and Flask for automated oral assessments.
+- **Features**:
+  - **Practice Module**: Generates questions, answers, and feedback with Python libraries.
+  - **Test Module**: Utilizes AI for assessments.
+- Added gamification elements like leaderboards and difficulty levels to boost engagement.
+
+## 📈 GitHub Stats:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya6s&layout=compact&theme=radical)
+
+
+
 <!--
 **shreya6s/shreya6s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
