@@ -3,9 +3,9 @@
 👋 Hello! I'm Shreya Sunil, a Third year B.Tech student at Rajagiri School of Engineering and Technology with a love for coding and problem-solving.
 
 ## 🌟 Skills Snapshot:
-- **Coding**: Proficient in ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg), ![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png), ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg), ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg), and ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg).
-- **Web Development**: Experience with ![Flask](https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg) for backend development and ![MySQL](https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png), ![Firebase](https://upload.wikimedia.org/wikipedia/commons/9/93/Google_Firebase_Logo_2017.png) for database management.
-- **Tools**: Comfortable using ![VSCode](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg) for coding and project management.
+- **Coding**: Proficient in ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Web Development**: Experience with ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) for backend development ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) for database management
+- **Tools**: Comfortable using ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) for coding and project management
 
 ## 🌱 Learning:
 - React
