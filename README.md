@@ -7,7 +7,8 @@
 - **Tools**: VSCode
 
 ## 🌱 Learning:
-- React and enhancing my skills.
+- React
+- Enhancing other skills.
 
 ## 📫 Feel free to reach out to me on:
 - [LinkedIn](https://www.linkedin.com/in/shreya6s)
