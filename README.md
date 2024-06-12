@@ -14,7 +14,7 @@
 - [LinkedIn](https://www.linkedin.com/in/shreya6s)
 
 ## 🚀 One of my Projects:
-### [VoiceVIVA - Automated Oral Assessment Platform](https://github.com/shreya6s/VoiceVIVA)
+### 🎙️[VoiceVIVA - Automated Oral Assessment Platform](https://github.com/shreya6s/VoiceVIVA)
 - Developed a web platform using HTML, CSS, JavaScript, Python, and Flask for automated oral assessments.
 - **Features**:
   - **Practice Module**: Generates questions, answers, and feedback with Python libraries.
