@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 Hello! I'm Shreya Sunil, a Third year B.Tech student at Rajagiri School of Engineering and Technology with a love for coding and problem-solving.
+👋 Hello! I'm Shreya Sunil, B.Tech Graduate from Rajagiri School of Engineering and Technology with a love for coding and problem-solving.
 
 ## 🌟 Skills Snapshot:
 - **Coding**: Proficient in ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
